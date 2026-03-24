@@ -1,9 +1,8 @@
-# Multi-Modal-Agentic-AI-Assistant
-Small agent, big brain. Processing the world one pixel at a time. 🤖
+
 <div align="center">
 
 # 🤖 Multi-Modal Agentic AI Assistant
-
+Small agent, big brain. Processing the world one pixel at a time.
 ### 🚀 *Production-Grade Intelligent AI System with Model Routing, Tool Calling & Ultra-Fast Inference*
 
 <p>
