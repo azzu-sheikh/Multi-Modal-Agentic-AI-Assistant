@@ -1,0 +1,18 @@
+Name: Abdul Azeem Sheikh
+Education: B.E. in Information Science & Engineering, Jawaharlal Nehru National College of Engineering (JNNCE)
+CGPA: 8.3
+
+Skills: Data Science, Hierarchical Clustering, K-Means Clustering, DBSCAN, PCA, SVD, Association Rules, Recommendation Engines, Network Analytics.
+
+Projects:
+- MIARTZ: E-marketplace for talents in film, fashion, TV, and music industries.
+- AI-Powered IVF Embryo Grading System
+- Smart Job Portal
+- Document Chatbot
+- Solar Savings Estimator
+- Gym Management System
+- Sanjeevini Bot (Healthcare Assistant)
+
+Experience/Applications:
+- Applied for Data Scientist at Lumbini Elite Solutions & Services.
+- Infosys off-campus drive candidate.
